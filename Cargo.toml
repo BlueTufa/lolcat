@@ -2,10 +2,15 @@
 name = "lolcat"
 version = "0.1.0"
 authors = ["Dan White <github@bluetufa.com>"]
+categories = ["command line utilities"]
+description = "A cat utility with lols"
+repository = "https://github.com/BlueTufa/lolcat"
+keywords = ["cat", "command-line", "utilities", "rust"]
+license-file = "LICENSE"
+readme = "README.md"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 ansi_term = "0.11.0"
 rand = "0.5.5"
+
