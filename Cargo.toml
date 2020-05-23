@@ -6,7 +6,6 @@ categories = ["command line utilities"]
 description = "A cat utility with lols"
 repository = "https://github.com/BlueTufa/lolcat"
 keywords = ["cat", "command-line", "utilities", "rust"]
-license = "Apache-2.0"
 license-file = "LICENSE"
 readme = "README.md"
 edition = "2018"
