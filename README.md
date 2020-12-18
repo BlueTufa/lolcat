@@ -20,12 +20,12 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```bash
 brew install rust
 ```
-Then do a cargo install within the root of this source tree:
+### Do a cargo install within the root of this source tree:
 ```bash
 cargo install --path $(pwd)
 ```
 
-Make sure you have `$HOME/.cargo/bin` in your path.
+### Make sure you have `$HOME/.cargo/bin` in your path.
 ```bash
 export PATH=$HOME/.cargo/bin:$PATH
 ```
