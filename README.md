@@ -5,11 +5,18 @@ A simple cat utility which outputs lols.
 Works with either an input file name or stdin.  
 
 ## How to install
-Start by installing rustup.
+### Clone this repository.
+```bash
+git clone https://github.com/BlueTufa/lolcat.git
+```
+### Install rustup.
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-
+> Alternate (MacOS Intel): 
+```bash
+brew install rust
+```
 Then do a cargo install within the root of this source tree:
 ```bash
 cargo install --path $(pwd)
