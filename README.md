@@ -1,4 +1,7 @@
 # A lolcat implementation, written in rust
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BlueTufa/lolcat/Rust)
+![GitHub issues](https://img.shields.io/github/issues/BlueTufa/lolcat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/BlueTufa/lolcat)
 
 A simple cat utility which outputs lols.
 
