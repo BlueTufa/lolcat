@@ -1,6 +1,6 @@
 [package]
 name = "lolcat"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Dan White <github@bluetufa.com>"]
 categories = ["command line utilities"]
 description = "A cat utility with lols"
@@ -11,6 +11,6 @@ readme = "README.md"
 edition = "2018"
 
 [dependencies]
-ansi_term = "0.11.0"
+ansi_term = "0.12.1"
 rand = "0.5.5"
 
